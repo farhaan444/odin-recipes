@@ -1,0 +1,32 @@
+body {
+    font-family: helvetica, sans-serif;
+    background-color: lightgrey;
+}
+
+#title {
+    text-align: center;
+    color: aqua;
+    font-size: 44px;
+}
+
+.banner-img {
+    width: 600px;
+    height: auto;
+    padding-left: 380px;
+}
+
+#sub-heading {
+    color: aqua;
+    text-align: center;
+}
+
+.main {
+    color: white;
+    text-align: center;
+    display: inline;
+}
+
+.list {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
